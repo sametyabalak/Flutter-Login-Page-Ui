@@ -1,5 +1,6 @@
-# d8_flutter_splashscreen_login_ui
+# flutter_splashscreen_login_ui
 
+![screenshots](loginpageui.gif)
 A new Flutter project.
 
 ## Getting Started
