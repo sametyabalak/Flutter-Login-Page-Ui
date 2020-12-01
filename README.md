@@ -1,6 +1,6 @@
 # flutter_splashscreen_login_ui
 
-![screenshots](loginpageui.gif)
+![Flutter-Login-Page-Ui](screenshots/loginpageui.gif)
 A new Flutter project.
 
 ## Getting Started
